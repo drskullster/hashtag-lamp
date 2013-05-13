@@ -13,6 +13,7 @@ results
 
 npm-debug.log
 
+.idea
 server/ntwitter/
 server/tweet.js
 server/twitter.js
