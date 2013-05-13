@@ -12,3 +12,8 @@ logs
 results
 
 npm-debug.log
+
+server/ntwitter/
+server/tweet.js
+server/twitter.js
+server/twitter_stream.js
