@@ -1,9 +1,9 @@
-var express = require('express'),
+var /*express = require('express'),
     routes = require('routes'),
-    dgram = require('net'),
-    twitter = require('./ntwitter/lib/twitter.js'),
+    dgram = require('net'),*/
+    twitter = require('./node_modules/ntwitter/lib/twitter.js'),
     twitterModule = require('./modules/twitter_module.js'),
-    util = require('util')
+    util = require('util'),
     net = require('net');
 
 var PORT = 33333;

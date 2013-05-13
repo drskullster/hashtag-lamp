@@ -3,6 +3,7 @@
     "description": "Serves user defined hashtags to TCP clients",
     "author": "RELabLiege",
     "dependencies": {
-        "ntwitter": "0.5.0"
+        "ntwitter": "0.5.0"/*,
+        "express": "3.x"*/
     }
 }
