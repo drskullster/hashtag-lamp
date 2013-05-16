@@ -1,0 +1,8 @@
+{
+    "name": "hashtag-server",
+    "description": "Serves user defined hashtags to TCP clients",
+    "author": "RELabLiege",
+    "dependencies": {
+        "ntwitter": "0.5.0"
+    }
+}
